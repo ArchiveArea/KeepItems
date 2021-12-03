@@ -1,10 +1,10 @@
 ---
-name: KeepInventory
+name: KeepInv
 api: 4.0.0
 author: NhanAZ
 version: 1.0.0
-main: NhanAZ\KeepInventory\Main
+main: NhanAZ\KeepInv\Main
 website: https://github.com/NhanAZ
-src-namespace-prefix: NhanAZ\KeepInventory
+src-namespace-prefix: NhanAZ\KeepInv
 description: Keep items in the player's inventory after they die
 ...

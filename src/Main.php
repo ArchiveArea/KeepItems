@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace NhanAZ\KeepInventory;
+namespace NhanAZ\KeepInv;
 
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
