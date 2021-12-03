@@ -1,8 +1,3 @@
-# General
-**Keep items in the player's inventory after the player dies**
-
-# Config
-```yaml
 ---
 # KeepInventory
 #
@@ -31,7 +26,7 @@ MessageAfterDeath: false
 # Default value: §aItems in your inventory have been kept
 #
 # Value description: Notifications sent to players after they die
-MessageToPlayerAfterDeath: "Items in your inventory have been kept"
+MessageToPlayerAfterDeath: "§aItems in your inventory have been kept"
 
 # Message types
 #
@@ -56,19 +51,3 @@ MessageType: message
 # Notices: false (Notifications related to this plugin will not be displayed on the console)
 Notices: true
 ...
-
-```
-
-# Contacts
-**You can contact me directly through the platforms listed below**
-| Platform | Contact            |
-| -------- | ------------------ |
-| Discord  | NhanAZ#9115        |
-| Email    | NhanAZ@pm.me       |
-| Twitter  | @ThanhNhanAZ       |
-| Zalo     | @ThanhNhanAZ       |
-| FaceBook | fb.com/ThanhNhanAZ |
-
-
-# License
-[**GNU General Public License v3.0**](https://www.gnu.org/licenses/gpl-3.0.html)

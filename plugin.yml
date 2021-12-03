@@ -2,7 +2,7 @@
 name: KeepInventory
 api: 4.0.0
 author: NhanAZ
-version: 0.0.1
+version: 1.0.0
 main: NhanAZ\KeepInventory\Main
 website: https://github.com/NhanAZ
 src-namespace-prefix: NhanAZ\KeepInventory
