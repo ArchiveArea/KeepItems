@@ -1,6 +1,12 @@
 # General
 **Keep items in the player's inventory after the player dies**
 
+[![](https://poggit.pmmp.io/ci.shield/nhanaz-pm-pl/KeepItems/KeepItems)](https://poggit.pmmp.io/ci/nhanaz-pm-pl/KeepItems/KeepItems)
+[![](https://poggit.pmmp.io/shield.state/KeepItems)](https://poggit.pmmp.io/p/KeepItems)
+[![](https://poggit.pmmp.io/shield.api/KeepItems)](https://poggit.pmmp.io/p/KeepItems)
+[![](https://poggit.pmmp.io/shield.dl.total/KeepItems)](https://poggit.pmmp.io/p/KeepItems)
+[![](https://poggit.pmmp.io/shield.dl/KeepItems)](https://poggit.pmmp.io/p/KeepItems)
+
 # Config
 ```yaml
 ---
