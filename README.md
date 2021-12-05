@@ -1,4 +1,6 @@
+---
 # This archive continues to be developed at [KeepInventory](https://github.com/nhanaz-pm-pl/KeepInventory)
+---
 
 # General
 **Keep items in the player's inventory after the player dies**
